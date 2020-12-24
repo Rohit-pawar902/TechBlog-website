@@ -1,9 +1,10 @@
-# TechBlog-website
-In this project i have been created an simple Web based website using following language and freameworks-:
+                                                   # TechBlog-website
+                                                   
+==In this project i have been created an simple Web based website using following language and freameworks-:
                                          1)Front-End=>HTML,CSS,Bootrap,Javascript and jquery
                                          2)Back-End=>javacore+adv,jsp,java servlet,mysql.
-                    & most important thing it follows the MVC(MODEL-VIEW-CONTROL) so lossely coupled code is wrothed.
-==
+                    & most important thing it follows the MVC(MODEL-VIEW-CONTROL) so lossely coupled code is written.
+                    
 =>Features in website-:
                       1)login/Registration System - interactable UI,backend Authorization available.
                       2)Edit profile - photo update ,rename your name ,mobile and addresse like updation's are done here
